@@ -8,10 +8,10 @@ Node Version: v18.19.0
 
 `npm install`
 
-#### Run project
+#### Run project:
 
 `npm run start`
 
-#### Final build
+#### Final build:
 
 [Hosted web version of the final build](https://max-berman.github.io/game-dev-assignment-softgames/).
