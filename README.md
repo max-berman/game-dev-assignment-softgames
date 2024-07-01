@@ -1,4 +1,4 @@
-# Game development assignment for Softgames
+# Game development assignment for [Softgames](https://www.softgames.com/)
 
 ## Available Scripts
 
